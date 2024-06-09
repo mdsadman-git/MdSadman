@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PsykickSam
 - 👀 I’m interested in Javascript, Python, C#, Java, Rust
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning Programming
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me md.sadman.shams
 
