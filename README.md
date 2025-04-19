@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @PsykickSam
-- 👀 I’m interested in Rust, Java, Javascript
-- 🌱 I’m currently a learner of advanced Rust 
-- 💞️ I’m thinking of creating an Open Source Projects
-- 📫 How to reach me md.sadman.shams@gmail.com
+- 👋 Hi, I’m @Md Sadman
+- 👀 I’m interested in Rust, Java, Javascript, Python
+- 🌱 I’m currently a learner of advanced Rust concepts and Core system strategies
+- 💞️ I’m thinking of creating or contributing to an Open Source Projects 
+- 📫 Reach me md.sadman.shams@gmail.com
 
 <!---
 PsykickSam/PsykickSam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
