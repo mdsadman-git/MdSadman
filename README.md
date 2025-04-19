@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Md Sadman
+- 👋 Hi, I’m @MdSadman
 - 👀 I’m interested in Rust, Java, Javascript, Python
 - 🌱 I’m currently a learner of advanced Rust concepts and Core system strategies
 - 💞️ I’m thinking of creating or contributing to an Open Source Projects 
